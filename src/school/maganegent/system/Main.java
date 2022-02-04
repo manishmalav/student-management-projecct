@@ -26,6 +26,7 @@ public class Main {
         List<Student> studentList = new ArrayList<>();
         studentList.add(govind);
         studentList.add(uma);
+        studentList.add(uma);
         studentList.add(keshav);
         studentList.add(kush);
 
